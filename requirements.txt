@@ -1,0 +1,9 @@
+mediapipe==0.10.21
+opencv-contrib-python>=4.8.0.76,<4.11.0.0
+numpy>=1.24.0,<2.0.0
+PySide6-Essentials>=6.5.0
+pyautogui>=0.9.54
+pynput>=1.7.6
+pyinstaller>=6.0.0
+pytest>=7.0.0
+six>=1.16.0
